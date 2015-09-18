@@ -1,9 +1,0 @@
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\ClientAPIWinSample.exe.config
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\ClientAPIWinSample.exe
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\ClientAPIWinSample.pdb
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.dll
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\csapi.pdb
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.xml
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\ClientAPIWinSample.csprojResolveAssemblyReference.cache
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\ClientAPIWinSample.exe
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\ClientAPIWinSample.pdb

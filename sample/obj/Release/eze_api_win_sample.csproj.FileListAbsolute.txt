@@ -1,12 +1,11 @@
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\EzeAPIWinSample.exe.config
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\EzeAPIWinSample.exe
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\EzeAPIWinSample.pdb
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.dll
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.xml
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\eze_api_win_sample.csprojResolveAssemblyReference.cache
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\EzeAPIWinSample.exe
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\EzeAPIWinSample.pdb
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\eze_api_win.dll
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.dll
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.Serialization.dll
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\eze_api_win.pdb
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.xml
 C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\Google.ProtocolBuffers.Serialization.xml
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\EzeAPIWinSample.exe
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\obj\Release\EzeAPIWinSample.pdb

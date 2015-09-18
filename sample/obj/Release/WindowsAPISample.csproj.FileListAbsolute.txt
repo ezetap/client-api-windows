@@ -1,1 +1,0 @@
-C:\Users\Karthik Krishna\workspace\github\client-api-windows\sample\bin\Release\WindowsAPISample.exe.config
