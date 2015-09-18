@@ -1,0 +1,9 @@
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\bin\Release\ezetap_win_api.dll
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\bin\Release\ezetap_win_api.pdb
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\bin\Release\Google.ProtocolBuffers.xml
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\bin\Release\Google.ProtocolBuffers.Serialization.xml
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\obj\Release\ezetap_win_api.csprojResolveAssemblyReference.cache
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\obj\Release\com.eze.api.Properties.Resources.resources
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\obj\Release\ezetap_win_api.csproj.GenerateResource.Cache
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\obj\Release\ezetap_win_api.dll
+C:\Users\Karthik Krishna\workspace\github\client-api-windows\source\obj\Release\ezetap_win_api.pdb
