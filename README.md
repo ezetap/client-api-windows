@@ -23,6 +23,8 @@ Steps:
 
 
 ##Steps to Follow :
-* Download the EzeTap API dll from the repository.
+//EZECLI.exe packaging
+* Download the EzeTap API - eze_api_win.dll from the release folder in the repository.
 * Add the API dll as a reference/library to your own Windows Application project.
-* Refer the <a href="http://developers.ezetap.com/api/"> Ezetap API Portal</a> for API usage
+* Refer the <a href="http://developers.ezetap.com/api/"> Ezetap API Portal</a> for API usage.
+  
