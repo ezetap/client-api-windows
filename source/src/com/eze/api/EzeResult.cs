@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace com.eze.api 
 {
 public class EzeResult 
@@ -5,18 +7,27 @@ public class EzeResult
 
     private EventName eventName;
 	private Status status;
-	private string code;
-	private string message;
-	private PaymentResult paymentResult;
-	
-	public PaymentResult getPaymentResult() {
-		return paymentResult;
+        private Error error;
+	private List<Result> resultList;
+    private Result result;
+   
+   public List<Result> getResultList() {
+		return resultList;
 	}
-	public void setPaymentResult(PaymentResult paymentResult) {
-		this.paymentResult = paymentResult;
+	public void setResultList(List<Result> resultList) {
+		this.resultList = resultList;
 	}
-    public EventName getEventName()
+        public Result getResult()
+        {
+            return result;
+        }
+        public void setResult(Result result)
+        {
+            this.result = result;
+        }
+        public EventName getEventName()
     {
+            
         return eventName;
 	}
     public void setEventName(EventName eventName)
@@ -29,22 +40,20 @@ public class EzeResult
 	public void setStatus(Status status) {
 		this.status = status;
 	}
-	public string getCode() {
-		return code;
-	}
-	public void setCode(string code) {
-		this.code = code;
-	}
-	public string getMessage() {
-		return message;
-	}
-	public void setMessage(string message) {
-		this.message = message;
-	}
-	
-	public override string ToString() {
-        return "EzeResult [eventName=" + eventName + ", status=" + status + ", code=" + code + ", message=" + message
-				+ ", paymentResult=" + paymentResult + "]";
+
+        public Error getError()
+        {
+            return error;
+        }
+        public void setError(Error error)
+        {
+            this.error = error;
+        }
+
+        public override string ToString() {
+        return "EzeResult [eventName=" + eventName + ", status=" +status+" ]";
 	}
 }
+
+   
 }

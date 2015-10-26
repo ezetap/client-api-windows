@@ -5,9 +5,9 @@ namespace com.eze.api
     {
         SUCCESS, FAILURE
     }
-    public enum PaymentType
+    public enum PaymentMode
     {
-        CARD, CASH, CHEQUE
+        SALE , CASHBACK , CASHATPOS
     }
 
     public enum LoginMode
@@ -22,7 +22,7 @@ namespace com.eze.api
 
     public enum EventName
     {
-        LOGIN, LOGOUT, EXIT, PREPARE_DEVICE, NOTIFICATION, TAKE_PAYMENT, CREATE, SET_SERVER_TYPE, SEND_RECEIPT, ATTACH_SIGNATURE, OTHER
+       INITIALIZATION, LOGIN, LOGOUT, EXIT, PREPARE_DEVICE, NOTIFICATION, TAKE_PAYMENT, CREATE, SET_SERVER_TYPE, SEND_RECEIPT, ATTACH_SIGNATURE, HISTORY_RESULT, TRANSACTION_DETAILS, VOID_PAYMENT,OTHER
     }
 
     public enum ImageType

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("csapitest")]
+[assembly: AssemblyTitle("WindowsFormsApplication4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("csapitest")]
+[assembly: AssemblyProduct("WindowsFormsApplication4")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9e2bd1d9-6e9d-4882-834e-8a7368ec63ec")]
+[assembly: Guid("572c86cb-2160-49e4-a77a-04e82eb04f87")]
 
 // Version information for an assembly consists of the following four values:
 //

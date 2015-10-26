@@ -74,12 +74,22 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="src\com\eze\api\Card.cs" />
+    <Compile Include="src\com\eze\api\Cheque.cs" />
+    <Compile Include="src\com\eze\api\Customer.cs" />
+    <Compile Include="src\com\eze\api\Error.cs" />
+    <Compile Include="src\com\eze\api\EzeConfig.cs" />
     <Compile Include="src\com\eze\api\EzeResult.cs" />
     <Compile Include="src\com\eze\api\EzeAPI.cs" />
+    <Compile Include="src\com\eze\api\Merchant.cs" />
+    <Compile Include="src\com\eze\api\OptionalParams.cs" />
     <Compile Include="src\com\eze\api\PaymentOptions.cs" />
-    <Compile Include="src\com\eze\api\PaymentResult.cs" />
+    <Compile Include="src\com\eze\api\Receipt.cs" />
+    <Compile Include="src\com\eze\api\Reference.cs" />
+    <Compile Include="src\com\eze\api\Transaction.cs" />
     <Compile Include="src\com\eze\api\EzeConstants.cs" />
     <Compile Include="src\com\eze\api\EzeException.cs" />
+    <Compile Include="src\com\eze\api\Result.cs" />
     <Compile Include="src\com\eze\ezecli\Ezetap.cs" />
   </ItemGroup>
   <ItemGroup>
