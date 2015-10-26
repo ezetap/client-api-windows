@@ -11,6 +11,9 @@ The following API helps you integrate your desktop application with Ezetap Servi
 3. EzeTap device
 4. API library available in the repository
 
+Initial SEtup:
+* Download release.zip from the release folder and unzip the contents.
+* Install eze_pos_win_0_0_7.exe.
 
 ##Sample App:
 
@@ -23,8 +26,7 @@ Steps:
 
 
 ##Steps to Follow :
-//EZECLI.exe packaging
-* Download the EzeTap API - eze_api_win.dll from the release folder in the repository.
+* Download the Client SDK - eze_api_win.dll from the release.zip present in the release folder in the repository.
 * Add the API dll as a reference/library to your own Windows Application project.
 * Refer the <a href="http://developers.ezetap.com/api/"> Ezetap API Portal</a> for API usage.
   
