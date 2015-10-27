@@ -9,7 +9,7 @@ The following API helps you integrate your desktop application with Ezetap Servi
 1. .NET development environment
 2. EzeTap app key/credentials
 3. EzeTap device
-4. API library available in the repository
+4. SDK client available in the repository in release folder.
 
 Initial Setup:
 * Download release.zip from the release folder and unzip the contents.
